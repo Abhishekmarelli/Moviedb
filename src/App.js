@@ -1,6 +1,6 @@
 
 import './App.css';
-import {Header ,Footer,MovieCard }from './components/index';
+import {Header ,Footer}from './components/index';
 import { AllRoutes } from './routes/AllRoutes';
 
 
